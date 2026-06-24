@@ -1,0 +1,8 @@
+# Obs: NÃO listar 'gradio' aqui — o HF Spaces instala o Gradio pela versão do README
+# (sdk_version). Listar de novo poderia conflitar. Aqui vão só as libs extras:
+ultralytics>=8.3.0
+torch
+torchvision
+opencv-python-headless
+transformers>=4.44.0
+pillow

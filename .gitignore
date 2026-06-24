@@ -1,0 +1,15 @@
+# Estado local do assistente
+.claude/
+
+# Higiene
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Artefatos de execução (se algum dia rodar localmente; no Colab vão para /content)
+runs/
+output/
